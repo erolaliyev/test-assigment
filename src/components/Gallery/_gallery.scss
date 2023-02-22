@@ -1,0 +1,21 @@
+.Gallery {
+  display: flex;
+  flex-flow: column nowrap;
+  width: 100%;
+}
+
+.Gallery_title {
+  text-align: center;
+  font-size: 32px;
+  margin: 10px;
+  font-style: italic;
+  font-weight: bold;
+}
+
+@media (min-width: 1024px) {
+  .Gallery_itemContainer {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+  }
+}
