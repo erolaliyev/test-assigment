@@ -1,4 +1,4 @@
-## Test Assignment: Sole
+## Test Assignment
 
 ## Install dependencies
 
